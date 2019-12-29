@@ -1,4 +1,5 @@
 #include <iostream>
+#include "aris.h"
 
 using namespace std;
 
